@@ -1,6 +1,6 @@
 # Simple Kafka Nest js Microservices
 <p align="center">
-  <a href="https://github.com/zulfikar4568/" target="blank"><img src="./images/MicroservicesKafkaNestjs.svg" alt="Nest Logo" /></a>
+  <a href="./images/MicroservicesKafkaNestjs.svg" target="blank"><img src="./images/MicroservicesKafkaNestjs.svg" alt="Nest Logo" /></a>
 </p>
 
 Open 3 terminal to run application
